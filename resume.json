@@ -1,0 +1,32 @@
+{
+    "name": "John Doe",
+    "contact": {
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890"
+    },
+    "education": [
+        {
+            "degree": "B.Sc. in Computer Science",
+            "institution": "XYZ University",
+            "year": 2020
+        }
+    ],
+    "experience": [
+        {
+            "position": "Software Engineer",
+            "company": "ABC Corp",
+            "duration": "2021-Present",
+            "responsibilities": [
+                "Developed web applications using Flask and React.",
+                "Implemented AWS solutions for file storage."
+            ]
+        }
+    ],
+    "skills": [
+        "Python",
+        "JavaScript",
+        "AWS",
+        "Flask",
+        "React"
+    ]
+}
